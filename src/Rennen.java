@@ -15,7 +15,7 @@ public class Rennen {
 	    	}
 	    }
 	    
-	    //gsehnd ihr das ?
+	    //gsehnd ihr das ?   :(
 	    
 	    public fileRead_2() {
 	    	Filereader fr = new FileReader("messresultate.txt");
