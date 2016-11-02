@@ -15,6 +15,8 @@ public class Rennen {
 	    	}
 	    }
 	    
+	    //gsehnd ihr das ?
+	    
 	    public fileRead_2() {
 	    	Filereader fr = new FileReader("messresultate.txt");
 	    	BufferedReader br = new BufferedReader(fr);
